@@ -1,3 +1,7 @@
 welcome to git demo!!!
 
-change - added to fix bug1
+
+change - added to fix bug1.
+
+change added to fix bug2 and fullstop.
+
