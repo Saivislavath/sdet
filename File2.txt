@@ -10,3 +10,4 @@ change:-change for CR2
 =======
 change:-idea for rebase
 >>>>>>> 20e5250 (idea:File2 added change and colon)
+change 6: change to local master
